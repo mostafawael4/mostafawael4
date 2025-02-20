@@ -9,6 +9,6 @@ Currently working as a **Frontend Developer** at **3DDX** 💻
 - 📚 Interested in **web development, and performance optimization**.
 
 ## 📫 How to Reach Me
-- 📧 [Gmail](mostafawael556@gmail.com)
+- 📧 [Gmail](mailto:mostafawael556@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-wael-b46a37239/)
 
