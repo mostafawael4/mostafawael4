@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Mustafa Wael
 
-<!--
-**mostafawael4/mostafawael4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Engineering student at **Shoubra Faculty of Engineering, Benha University** 🎓  
+Currently working as a **Frontend Developer** at **3DDX** 💻
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🌱 I’m passionate about **frontend development** and always eager to learn new technologies.
+- 🚀 Looking to enhance my skills and grow in the tech industry.
+- 📚 Interested in **web development, and performance optimization**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- 📧 [Gmail](mostafawael556@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-wael-b46a37239/)
+
