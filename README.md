@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mustafa Wael
+# Hi 👋, I'm Mostafa Wael
 
 A Computer Engineering student at **Shoubra Faculty of Engineering, Benha University** 🎓  
 Currently working as a **Frontend Developer** at **3DDX** 💻
