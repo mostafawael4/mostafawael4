@@ -1,19 +1,14 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="130" style="border-radius:15px;box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);"/>
-</div>
+# Hi 👋, I'm Mostafa Wael
 
-<h1 align="center">👨‍💻 Mostafa Wael</h1>
+A Computer Engineering student at **Shoubra Faculty of Engineering, Benha University** 🎓  
+Currently working as a **Frontend Developer** at **3DDX** 💻
 
-<p align="center">
-  <code>Frontend Developer | Angular Specialist</code>
-</p>
+## 🌟 About Me
+- 🌱 I’m passionate about **frontend development** and always eager to learn new technologies.
+- 🚀 Looking to enhance my skills and grow in the tech industry.
+- 📚 Interested in **web development, and performance optimization**.
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin"/></a>
-  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Firefox-Browser"/></a>
-</p>
-
----
-
-### 🔧 Languages & Tools
+## 📫 How to Reach Me
+- 📧 [Gmail](mostafawael556@gmail.com)
+- 📧 [Gmail](mailto:mostafawael556@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-wael-b46a37239/)
